@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=264
+
+Provide syntax highlighting for C# code withing <script runat="server"> ... </script> blocks as well as @ directives in *.(aspx|ascx|asmx) files.
+
+This is a work in progress.  It's not perfect by any means, but it's quite usable.
